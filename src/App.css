@@ -1,0 +1,49 @@
+.App {
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+
+}
+
+
+
+.card {
+  width:800px;
+  height:300px;
+  margin:20px;
+  background-color: aliceblue;
+  display: flex;
+
+
+  padding:20px;
+}
+
+
+.person-image img {
+  width: 200px;
+  height: 300px;
+  float:left;
+  object-fit: cover;
+}
+
+.person-info {
+  margin-left: 20px;
+  text-align: left;
+}
+
+.person-info h2 {
+  font-size: 40px;
+  margin: 0;
+}
+
+img {
+  
+  object-fit: cover;
+}
+
+p2 {
+  font-size: 16px;
+  margin: 0;
+  color: #757575;
+}
